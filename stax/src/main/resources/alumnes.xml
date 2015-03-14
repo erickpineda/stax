@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE persones SYSTEM "alumnes.dtd">
+<persones>
+  <alumne>
+    <nom>Federicu Pi</nom>
+    <any>2010</any>
+    <credits>
+      <assignatura>XML</assignatura>
+      <assignatura>Xarxes Locals</assignatura>
+    </credits>
+  </alumne>
+  <alumne>
+    <nom>Marcelinu Paivinu</nom>
+    <any>2010</any>
+    <credits>
+      <assignatura>Xarxes Locals</assignatura>
+    </credits>
+  </alumne>
+  <alumne>
+    <nom>Filomeno Garcia</nom>
+    <any>2010</any>
+    <credits>
+      <assignatura>Programació</assignatura>
+      <assignatura>Xarxes Locals</assignatura>
+    </credits>
+  </alumne>
+  <alumne>
+    <nom>Eustaquio Pons</nom>
+    <any>2009</any>
+    <credits>
+      <assignatura>XML</assignatura>
+    </credits>
+  </alumne>
+  <alumne>
+    <nom>Tomeu Bonys</nom>
+    <any>2009</any>
+    <credits>
+      <assignatura>XML</assignatura>
+      <assignatura>Programació</assignatura>
+    </credits>
+  </alumne>
+  <alumne>
+    <nom>Bernat Garengou</nom>
+    <any>2010</any>
+    <credits>
+      <assignatura>XML</assignatura>
+      <assignatura>Xarxes Locals</assignatura>
+    </credits>
+  </alumne>
+  <alumne>
+    <nom>Pere Nou</nom>
+    <any>2010</any>
+    <credits>
+      <assignatura>Programació</assignatura>
+    </credits>
+  </alumne>
+  <alumne>
+    <nom>Bill Garcia</nom>
+    <any>2010</any>
+    <credits>
+      <assignatura>XML</assignatura>
+      <assignatura>Programació</assignatura>
+      <assignatura>Xarxes Locals</assignatura>
+    </credits>
+  </alumne>
+</persones>
